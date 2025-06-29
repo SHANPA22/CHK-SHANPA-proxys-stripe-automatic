@@ -1,0 +1,6 @@
+{
+    "proxy_config": {
+        "http": "socks5://usuario:contraseña@p.webshare.io:80/",
+        "https": "socks5://usuario:contraseña@p.webshare.io:80/"
+    }
+}
