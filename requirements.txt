@@ -1,0 +1,4 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+socks5-proxy==1.0.0
+PySocks==1.7.1
