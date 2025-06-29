@@ -1,6 +1,6 @@
 # CHK SHANPA  |  t.me/TioShanpa
 
-Herramienta simple pre eficaz para verificación de tarjetas con soporte para proxies rotativos y gestión automatizada de resultados.
+Herramienta simple pero eficaz para verificación de tarjetas con soporte para proxies rotativos y gestión automatizada de resultados.
 
 ## 📌 Características Principales
 
