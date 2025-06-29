@@ -16,15 +16,14 @@ Herramienta simple pero eficaz para verificación de tarjetas con soporte para p
 ## 🚀 Instalación
 
 1. Clona el repositorio:
+2. Instala las dependencias:
+3. Ingresa al directorio:
+4. Inicia:
 ```bash
 git clone https://github.com/SHANPA22/CHK-SHANPA-proxys-stripe-automatic.git
 
-2. Instala las dependencias:
-
 pip install -r requirements.txt
 
-3. Ingresa al directorio:
 cd CHK-SHANPA-proxys-stripe-automatic
 
-4. Inicia:
 python main.py
